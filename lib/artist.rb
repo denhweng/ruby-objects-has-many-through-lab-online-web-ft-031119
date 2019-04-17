@@ -12,4 +12,5 @@ class Artist
     @@all 
   end 
   
+  def new_song(name, genre)
 end 
